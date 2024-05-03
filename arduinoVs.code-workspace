@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/arduinoVs"
+		},
+		{
+			"name": "ESP32OTA_espdev",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
